@@ -1,4 +1,4 @@
-# JK-Wordpress-Wiki
+# Filter Yoast Breadcrumbs
 
 /**
  * Filter the output of Yoast breadcrumbs to remove <span> tags added by the plugin
